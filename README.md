@@ -1,2 +1,2 @@
-## A simple linear classifier for distinguishing tow types of fish
+## A simple linear classifier for distinguishing tow classes
 
